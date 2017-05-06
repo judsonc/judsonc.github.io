@@ -1,0 +1,10 @@
+{
+  "name": "Judson Costa",
+  "short_name": "JC",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#5b6471",
+  "background_color": "#5b6471",
+  "description": "Um simples app sobre mim.",
+  "lang": "pt-BR"
+}
